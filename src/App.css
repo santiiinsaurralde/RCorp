@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(95, 72, 223);
+
+}
+.centro {
+  
+  text-align: center;
+  padding: 5px 5px ;
+}
+td{
+  padding: 0 15px;
+}
+
+  .table-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 70vh;
+  }
+  
+
